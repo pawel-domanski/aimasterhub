@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/Dexter_Logo_Light.png",
-    "dark": "/logo/Dexter_Logo_Light.png"
+    "light": "/logo/Dexter_Logo_Light.webp",
+    "dark": "/logo/Dexter_Logo_Light.webp"
   },
   "navbar": {
     "links": [
