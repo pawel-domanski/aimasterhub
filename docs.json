@@ -71,21 +71,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://aimasterhub.com",
           "icon": "newspaper"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/Dexter_Logo_Light.webp",
-    "dark": "/logo/Dexter_Logo_Light.webp"
+    "light": "/logo/DexterLab_Web_logo-1.webp",
+    "dark": "/logo/DexterLab_Web_logo-1.webp"
   },
   "navbar": {
     "links": [
