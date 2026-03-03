@@ -71,6 +71,16 @@
     "global": {
       "anchors": [
         {
+          "anchor": "Documentation",
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://aimasterhub.pl"
+        },
+        {
           "anchor": "Blog",
           "href": "https://aimasterhub.com",
           "icon": "newspaper"
@@ -79,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/DexterLab_Web_logo-1.webp",
-    "dark": "/logo/DexterLab_Web_logo-1.webp"
+    "light": "/logo/Dexter_Logo_Light.webp",
+    "dark": "/logo/Dexter_Logo_Light.webp"
   },
   "navbar": {
     "links": [
